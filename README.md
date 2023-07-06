@@ -3,6 +3,10 @@
 ## DESCRIPTION: 
 In this project covers how i launced an EC2 instance, launch another EC2 instance from the previous one created via AMI image and attaching a load balancer to both instance through target groups. Then, deploy a statics website on the instances.
 
+## ARCHITECTURE
+![AWS-Acrchitecture (1)](https://github.com/OK-CodeClinic/Application_Load_Balancer_on_two_EC2_instance/assets/100064229/eb6aca62-66a3-4963-8a60-d6abcfd6c5f4)
+
+
 
 ## STEPS:
 #### 1st EC2 Instance: 
