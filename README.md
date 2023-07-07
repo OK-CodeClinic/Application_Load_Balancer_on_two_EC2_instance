@@ -76,9 +76,9 @@ This project covers how i launced an EC2 instance, launch another EC2 instance f
 ![Allow-ELB-in-SG](https://github.com/OK-CodeClinic/Application_Load_Balancer_on_two_EC2_instance/assets/100064229/5bc6adf1-9c14-478c-93bb-c1556bf508aa)
 
 
-###
-###
-###
+### .
+### .
+### .
 
 
 ## OUTCOME
